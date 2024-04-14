@@ -172,9 +172,10 @@ Ubah value `num_child_process` menjadi `40`.
 Jika sukses tampilannya seperti: ![image](https://github.com/ZuperHunt/Heurist-AI/assets/33769324/578ec529-50d8-4116-a0fa-bd7a5d8e17a6)
 
 ## Cek Waifu and Llama Points
+- Pastikan kamu sudah mining selama 1 jam
 - Buka [Portal Heurist](https://www.heurist.ai/portal)
-- Connect Wallet Mining Kamu
-- Buka menu Mining. ![image](https://github.com/ZuperHunt/Heurist-AI/assets/33769324/2c1cc8a2-2d30-4e77-b2e7-fdd5855ec731)
+- `Connect Wallet` Mining Kamu
+- Buka menu `Mining`. ![image](https://github.com/ZuperHunt/Heurist-AI/assets/33769324/2c1cc8a2-2d30-4e77-b2e7-fdd5855ec731)
 
 ## Help
 
