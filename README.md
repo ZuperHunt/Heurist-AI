@@ -159,12 +159,6 @@ MINER_ID_O=ALAMAT_EVM_KAMU
 ```
 Save file tersebut `Control + X`
 
-### Update Config (optional jika kamu menggunakan high end GPU: >= RTX 4090)
-```
-nano config.toml
-```
-Ubah value `num_child_process` menjadi `40`.
-
 ### Start Mining
 ```
 ./llm-miner-starter.sh openhermes-2.5-mistral-7b-gptq
